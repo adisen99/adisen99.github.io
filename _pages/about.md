@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Any fool can know. The point is to understand. If you can't explain it simply, you don't understand it well enough. ~ Albert Einstein"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
