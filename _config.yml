@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Food 4 Thought"
 title_separator          : "|"
 name                     : &name "F4F"
-description              : &description "A curious student and Linux enthusiast currently pursuing a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
+description              : &description "A curious student and Linux enthusiast with a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
 url                      : https://adisen99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adisen99.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Aditya Sengupta"
   avatar           : "owl.png"
-  bio              : "A curious student and Linux enthusiast currently pursuing a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
+  bio              : "A curious student and Linux enthusiast currently with a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
   location         : "India"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yHHH8MsAAAAJ"
   email            : "adityasenguptasai99@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Aditya-Sengupta-2"
+  researchgate     : "https://www.researchgate.net/profile/Aditya-Sengupta-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "adisen99"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "adisen99"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aditya-sengupta-10/"
+  linkedin         : "aditya-sengupta-10"
   orcid            : "http://orcid.org/0000-0003-2721-3818"
   pinterest        :
   soundcloud       :
