@@ -3,7 +3,7 @@ permalink: /
 title: "Home"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,9 +12,8 @@ redirect_from:
 >
 <cite> Albert Einstein
 
-_**Site under construction**_
+I am a student currently pursuing a Doctor of Philosophy - Science from The University of Melbourne. My research during my PhD will be primarily focused on the study of climate variability under net-zero and negative carbon emission scenarios in future climate projections. I have a strong background in analyzing large volumes of data using python and I have strong academic writing and research oriented skills.
 
+I am currently eagerly working on my PhD topic and exploring the beautiful city of Melbourne and wish to use this website and associated blog as a means of catharsis, to share my experiences and document my research progress kinda like a captain's log on a Star Trek mission across galaxies. Hope you find something useful on this website. I have a penchant for art and unconventional ideas and artistic perspectives and love watching sports and occasionally dabble in playing sports as well xD. I don't know what more to write here. If I remember something, will add it for sure.
 
-I am a atmospheric Science major from National Institute of Technology, Rourkela. My research interests lie primarily in Weather and Climate extremes and in the role of meteorology on air quality and pollutant concentrations. I am currently looking for a PhD opportunity, to work in the field of climate science.
-
-For more details about me navigate the website
+The contents on this website will keep updating statically, whenever I feel like updating them which I hope will be more frequent.

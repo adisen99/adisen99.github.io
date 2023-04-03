@@ -10,9 +10,9 @@ redirect_from:
 School Address :
 ---
 
-Dept. of Earth and Atmospheric Sciences,
-National Institute of Technology, Rourkela,
-Sundargarh, Odisha, India, 769008
+School of Geography, Earth and Atmospheric Sciences
+University of Melbourne
+Grattan Street, Parkville, Victoria, 3010
 
 Home Address :
 ---

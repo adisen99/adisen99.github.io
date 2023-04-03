@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Food 4 Thought"
 title_separator          : "|"
 name                     : &name "F4F"
-description              : &description "A curious student and Linux enthusiast with a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
+description              : &description "A curious student and Linux enthusiast currenty pursuing a Doctor of Philosophy in Science from the University of Melbourne"
 url                      : https://adisen99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adisen99.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aditya Sengupta"
   avatar           : "owl.png"
-  bio              : "A curious student and Linux enthusiast currently with a Master's degree in Atmospheric Sciences from National Institute of Technology, Rourkela"
+  bio              : "A curious student and Linux enthusiast currenty pursuing a Doctor of Philosophy in Science from the University of Melbourne"
   location         : "India"
   employer         :
   pubmed           :
