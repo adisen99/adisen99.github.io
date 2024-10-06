@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Food 4 Thought"
 title_separator          : "|"
 name                     : &name "F4F"
-description              : &description "A curious student and Linux enthusiast currenty pursuing a Doctor of Philosophy in Science from the University of Melbourne"
+description              : &description "Graduate Researcher at ARC Centre of Excellence for Climate Extremes (CLeX) and pursuing a Doctor of Philosophy in Science from the University of Melbourne"
 url                      : https://adisen99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adisen99.github.io"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Sengupta"
-  avatar           : "owl.png"
-  bio              : "A curious student and Linux enthusiast currenty pursuing a Doctor of Philosophy in Science from the University of Melbourne"
+  avatar           : "myself.jpg"
+  bio              : "Graduate Researcher at ARC Centre of Excellence for Climate Extremes (CLeX) and pursuing a Doctor of Philosophy in Science from the University of Melbourne"
   location         : "India"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yHHH8MsAAAAJ"
-  email            : "adityasenguptasai99@gmail.com"
+  email            : "aditya.sengupta@student.unimelb.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Aditya-Sengupta-2"
   uri              :
   bitbucket        :

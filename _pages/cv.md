@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-This is a brief overview of my CV. The PDF version of my detailed CV as of (July 2022) - [Download File](/files/Aditya_Sengupta_CV.pdf)
+This is a brief overview of my CV. The PDF version of my detailed CV as of (October 2024) - [Download File](/files/aditya_new_cv.pdf)
 
 Education
 ---
+* Doctor of Philosophy - Science, University of Melbourne, 2023 - Present
 * M.Ss. in Atmospheric Sciences, National Institute of Technology Rourkela, 2022
 * B.Sc. (Hons.) in Physics, Amity University, Noida, 2020
 
 Work experience
 ---
+* **Graduate Researcher** (_March 2023 - Present_)
+  * at [ARC Centre of Excellence for Climate Extremes (CLeX)](https://climateextremes.org.au)
+  * Contributed to two major reports aimed at increasing awareness about extreme weather events in Australia and understanding the implications of achieving Net Zero emissions within this century for climate extremes in the future.
+
 * **Summer Research Fellow** (_May 2021 - Janurary 2022_)
   * at [Indian Institute of Tropical Meteorology, Pune](https://tropmet.res.in)
   * Selected through the [Science Academies' Summer Research Fellowship Program 2021](https://webjapps.ias.ac.in/fellowship2021/lists/result.jsp)
@@ -83,33 +88,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Conferences and Seminars attended
----
-
-* **Maritime Seminar 2020** at Amity University, Noida
-  * Student presenter at the National Maritime Foundation (NMF) Seminar 2020 on the topic "_Blue Economy & Maritime Security in the
-Indian Ocean Region_" organised jointly by Amity University Uttar Pradesh and National Maritime Foundation.
-  * Our team from Amity Institute of Applied Sciences presented a talk on the sub-topic of "_Blue Economy Involving Offshore Hydrocarbons and Seabed Minerals_".
-
-* **International Conference on Recent Trends in Materials and Devices (ICRTMD)** at Amity Institute of Applied Sciences, Amity University, Noida
-  * Attended the conference as a student delegate and participated in the Poster Presentation competition to contribute my summer project work carried out at IUAC-New Delhi under the guidance of Mr. Deepak Swami.
-
-* **National Science Day**, at Inter University Accelerator Centre, IUAC
-  * Attended twice as a student representative from my institution, once in February 2019 and in February 2020. Participated in a poster presentation competition presenting a poster on the topic of "_Applications of Particle Accelerators for Mankind: A futuristic view_"
-* **India International Science Festival (IISF), DST/MHRD**
-  * Proudly represented my institution as a Student Delegate twice - in 2015 at Indian Institute of Technology, Delhi; and in 2016 at the National Physical Laboratory (NPL), Delhi.
 
 Volunteer Experience
 ---
